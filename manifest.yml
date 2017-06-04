@@ -1,6 +1,6 @@
 ---
 applications:
-- buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+- buildpack: https://github.com/manojdku/MyFirstWebSite.git
   host: boi-php-test
   name: boi-php-test
   memory: 64M
